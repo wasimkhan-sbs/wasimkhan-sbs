@@ -32,8 +32,9 @@ Full Stack .NET Developer with 4.1 years of experience building scalable web app
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wasimk1&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasimk1&layout=compact&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wasimk1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=333333&icon_color=2563eb" alt="GitHub Stats" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasimk1&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=333333" alt="Top Languages" />
 </p>
 
 ---
@@ -41,7 +42,7 @@ Full Stack .NET Developer with 4.1 years of experience building scalable web app
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasimk1&theme=github-light&hide_border=true" width="100%" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wasimk1&bg_color=ffffff&color=333333&line=2563eb&point=2563eb&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -52,9 +53,9 @@ Full Stack .NET Developer with 4.1 years of experience building scalable web app
   <a href="https://github.com/wasimk1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/wasimk1">
+  <a href="https://www.linkedin.com/in/wasimk1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
